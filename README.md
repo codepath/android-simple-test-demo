@@ -18,12 +18,12 @@ This app is just two activities. The first has a text field and a button. When y
 
 ![Robolectric](http://i.imgur.com/Csa8mGK.png)
 
-To run robolectric unit tests, right-click project and select "Run As => JUnit Test"
+To run robolectric unit tests, right-click project and select `Run As => JUnit Test`
 
 ### Robotium
 
-[Robotium](https://github.com/thecodepath/android_guides/wiki/Android-Unit-and-Integration-testing#robotium) - Select "File => Import", "Existing Projects Into Workspace" and then select the "robotium-tests" folder. This loads the folder into eclipse. 
+[Robotium](https://github.com/thecodepath/android_guides/wiki/Android-Unit-and-Integration-testing#robotium) - Select `File => Import => Existing Projects Into Workspace` and then select the "robotium-tests" folder. This loads the folder into eclipse. 
 
 ![Robotium](http://i.imgur.com/v0aCcqK.png)
 
-To run robotium tests, right-click project and select "Run As => Android JUnit Test"
+To run robotium tests, right-click project and select `Run As => Android JUnit Test`
